@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OwnedLotus
 - 👀 I’m interested in all things C and C#
-This includes things such as XAMARIN/Maui, Razor, ML.Net, and UnityEngine
+This includes things such as XAMARIN/Maui, Razor, ML.Net, and UnityEngine.
 I am also interested in how OpenGL operates with C programming, so I may have some projects attempting this.
 
 - 🌱 I’m currently learning Razor Page syntax and Blazor with C#.
