@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @OwnedLotus
-- 👀 I’m interested in all things C and C#
+- 👀 I’m interested in all things C# and Rust
 This includes things such as XAMARIN/Maui, Razor, ML.Net, and UnityEngine.
-I am also interested in how OpenGL operates with C programming, so I may have some projects attempting this.
+I have an interest in learning Rust in depth and I am interested in building 
+efficient applications in both of the languages.
 
-- 🌱 I’m currently learning Razor Page syntax and Blazor with C#.
+- 🌱 I wll be creating applications as I am interested in them and hopefully
+- I will complete them.
 
 - 📫 How to reach me 
 via Email JonahRingdahl@outlook.com
