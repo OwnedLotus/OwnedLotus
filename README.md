@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OwnedLotus
 - 👀 I’m interested in all things C# and Rust
-This includes things such as XAMARIN/Maui, Razor, ML.Net, and UnityEngine.
+This includes things such as MAUI, Razor, ML.Net, and UnityEngine.
 I have an interest in learning Rust in depth and I am interested in building 
 efficient applications in both of the languages.
 
